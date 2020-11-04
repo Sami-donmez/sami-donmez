@@ -14,7 +14,7 @@ Hi there, I'm **Sami Dönmez**, a **backend developer** and  Co-Founder of **Cyt
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m development web sites and wep application; 
+- 🌱 I’m developing web sites and web application; 
 - 🤔 My interests are with  Web technology, Rest api, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
