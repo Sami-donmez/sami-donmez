@@ -1,4 +1,4 @@
-### Hey 👋, I'm Sami
+### Hey 👋, I'm Sami Dönmez
 
 <a href="https://www.linkedin.com/in/sami-donmez">
   <img align="left" alt="Sai LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,19 +8,17 @@
 <br />
 <br />
 
-Hi there, I'm **Sami donmez**, a **backend developer** and  Co-Founder of **Cytechnoware software services** . 
+Hi there, I'm **Sami Dönmez**, a **backend developer** and  Co-Founder of **Cytechnoware Software Services** . 
 
   <img align="right" alt="GIF" src="https://cytechnoware.com/img/logo.png" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m development web sites and wep application; 
+- 🤔 My interests are with  Web technology, Rest api, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 Please email via samidonmezdeveloper@gmail.com to reach me.
 
 
 **Languages and Tools:**  
@@ -37,6 +35,5 @@ Hi there, I'm **Sami donmez**, a **backend developer** and  Co-Founder of **Cyte
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpstorm/phpstorm.png"></code>
 
 
